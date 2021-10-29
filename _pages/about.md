@@ -21,7 +21,17 @@ So it’s like you ask the tree and it tell about itself.
 This project can help students, teachers, visitors, public, who walk in beautiful campus of G.S.S college.  
 
 
-
+##Features of the Website
+	<ul>
+		<li>Featured Posts for highlighting important Trees</li>
+	<li>Post categories</li>
+	<li>Prev/Next Link</li>
+	<li>Integrations: Disqus Comments, Google Analytics</li>
+	<li>Clean Blog aware Jekyll Theme</li>
+	<li>Share on Social Media -Twitter, Instagram, Facebook etc</li>
+	<li>Search options</li>
+	<li>Geolocation taging - Google Maps</li>
+	</ul>
 
 </div>
 
