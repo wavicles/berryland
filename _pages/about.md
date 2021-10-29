@@ -19,6 +19,7 @@ Computers are used everywhere for various purposes like shopping, economic, busi
 So it’s like you ask the tree and it tell about itself.  
 
 This project can help students, teachers, visitors, public, who walk in beautiful campus of G.S.S college.  
+	<p></p>
 
 	<p><b>Features of the Website</b></p>
 	<ul>
@@ -32,7 +33,7 @@ This project can help students, teachers, visitors, public, who walk in beautifu
 	<li>Geolocation taging - Google Maps</li>
 	</ul>
 	
-The website concept and design is by <a href="https://github.com/wavicles">Wavicles  </a>Prof. Praveen Patil, Department of Physics GSS PU College, Belgaum
+The website concept and design is by <a href="https://github.com/wavicles">Wavicles  </a>Prof. Praveen Patil, Department of Physics GSS College, Belgaum
 
 </div>
 
