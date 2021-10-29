@@ -33,7 +33,7 @@ This project can help students, teachers, visitors, public, who walk in beautifu
 	<li>Geolocation taging - Google Maps</li>
 	</ul>
 	
-	The website concept and design is by <a href="https://github.com/wavicles">Wavicles</a>Prof. Praveen Patil, Department of Physics GSS PU College, Belgaum
+	<div>The website concept and design is by <a href="https://github.com/wavicles">Wavicles</a>Prof. Praveen Patil, Department of Physics GSS PU College, Belgaum</div>
 
 </div>
 
