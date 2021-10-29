@@ -20,8 +20,8 @@ So it’s like you ask the tree and it tell about itself.
 
 This project can help students, teachers, visitors, public, who walk in beautiful campus of G.S.S college.  
 
-
-##Features of the Website
+	<div></div>
+	<b>Features of the Website</b>
 	<ul>
 		<li>Featured Posts for highlighting important Trees</li>
 	<li>Post categories</li>
